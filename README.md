@@ -1,1 +1,1 @@
-Parser and yoinker data from web front using `gray-matter` lib. TriYoink
+Parser and yoinker data from web front using `xmlhttprequest` lib. TriYoink
