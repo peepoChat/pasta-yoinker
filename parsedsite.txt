@@ -1,0 +1,2125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classic Copypastas | TwitchQuotes</title>
+    <meta name="description" content="Browse the funniest Classic copypastas. TwitchQuotes is the leading online database for Twitch chat copypastas">
+    <meta property="fb:app_id" content="1897814150488279"/>
+      <link rel="next" href="https://www.twitchquotes.com/copypastas/labels/classic?page=2" />
+    <!-- external fonts, css, and scripts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css'>
+    <!-- local assets -->
+    <link rel="icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+    <link rel="stylesheet" media="all" href="/assets/application-1e316146dce92e0f2616f4c99e3101344c57c732c17bbf0d9c0375dcc15acf4d.css" />
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-48749842-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-48749842-1');
+</script>
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hj5BPxnHDlhDVH9DmlB5KrAfv/KzIRNlATPjjHDvIgSQOEoOhKBjNEcbhTzIl609/EgZJ4G7R76jk11uGeWpRQ==" />
+  </head>
+  <body class="quote_tags_show">
+    <div class="tipsy">
+      <div class="tipsy-inner"></div>
+    </div>
+      <header>
+        <nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-menu">
+      <div>
+        <a href="/ascii-art-generator">
+          <div class="-menu-item -menu-item-filled">
+            <span class="glyphicon glyphicon-pencil" title="ASCII Art Generator"></span> <span>ASCII Art Generator</span>
+          </div>
+        </a>
+        <a href="/">
+          <div class="-menu-item">
+            <span class="glyphicon glyphicon-home" title="Home"></span> <span>Home</span>
+          </div>
+        </a>
+        <a href="/copypastas">
+          <div class="-menu-item">
+            <span class="glyphicon glyphicon-comment" title="Latest Copypastas"></span> <span>Latest Copypastas</span>
+          </div>
+        </a>
+        <a href="/copypastas?popular=true">
+          <div class="-menu-item">
+            <span class="glyphicon glyphicon-fire" title="Popular Copypastas"></span> <span>Popular Copypastas</span>
+          </div>
+        </a>
+        <a href="/copypastas/labels">
+          <div class="-menu-item">
+            <span class="glyphicon glyphicon-tags" title="All Copypasta Tags"></span> <span>All Copypasta Tags</span>
+          </div>
+        </a>
+        <a href="/copypastas/search">
+          <div class="-menu-item">
+            <span class="glyphicon glyphicon-search" title="Search"></span> <span>Search</span>
+          </div>
+        </a>
+        <a href="/copypastas/ascii-art">
+          <div class="-menu-item">
+            <span class="glyphicon glyphicon-picture" title="ASCII Art Copypastas"></span> <span>ASCII Art Copypastas</span>
+          </div>
+        </a>
+        <a href="/streams">
+          <div class="-menu-item">
+            <span class="glyphicon glyphicon-user" title="Streams"></span> <span>Streams</span>
+          </div>
+        </a>
+        <a href="/emoticons">
+          <div class="-menu-item">
+            <span class="glyphicon glyphicon-th" title="Twitch Emoticons"></span> <span>Twitch Emoticons</span>
+          </div>
+        </a>
+        <a href="/builder">
+          <div class="-menu-item">
+            <span class="glyphicon glyphicon-pencil" title="Unicode Copypasta Builder"></span> <span>Unicode Copypasta Builder</span>
+          </div>
+        </a>
+        <a href="/random">
+          <div class="-menu-item">
+              <span class="glyphicon glyphicon-refresh" title="Random Copypasta"></span> <span>Random Copypasta</span>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="navbar-header">
+      <div class="mobile-hamburger-parent visible-xs">
+        <div class="hamburger">
+          <div class="-bar -bar1"></div>
+          <div class="-bar -bar2"></div>
+          <div class="-bar -bar3"></div>
+        </div>
+      </div>
+      <a class="navbar-brand" id="logo" href="/">TwitchQuotes</a>
+    </div>
+    <div class="hidden-xs hidden-sm navbar-left navbar-buttons-parent">
+      <ul class="nav navbar-nav">
+        <li>
+          <a href="/copypastas/labels/classic">
+            <img src="/assets/golden_kappa-e3bec8da476fcae96711bdfcb43ca93a47641c4174d6147bf5ef8bbc1d5ba8b5.png"/> Classic
+          </a>
+        </li>
+        <li>
+          <a href="/copypastas/ascii-art">
+            <span class="glyphicon glyphicon-with-text glyphicon-picture" title="ASCII Art Copypastas"></span> ASCII Art
+          </a>
+        </li>
+        <li>
+          <a href="/copypastas/labels">
+            <span class="glyphicon glyphicon-tags" title="Copypasta Tags"></span>
+          </a>
+        </li>
+        <li>
+          <a href="/copypastas/search">
+            <span class="glyphicon glyphicon-search" title="Search Copypastas"></span>
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="collapse navbar-collapse navbar-right navbar-buttons-parent">
+      <ul class="nav navbar-nav">
+        <li class="navbar-submissions-parent hidden-xs">
+          <a class="-contribute-button" href="/contribute">
+            <span>Contribute</span>
+</a>        </li>
+      </ul>
+      <div class="hamburger hidden-xs">
+        <div class="-bar -bar1"></div>
+        <div class="-bar -bar2"></div>
+        <div class="-bar -bar3"></div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+      </header>
+      <div class="container" id="main">
+        
+        <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="server_error_modal">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h4 class="modal-title">Sorry, server error!</h4>
+      </div>
+      <div class="modal-body" style="text-align: center">
+        ヽ༼ຈل͜ຈ༽ﾉ FIX OR RIOT!!! ヽ༼ຈل͜ຈ༽ﾉ
+      </div>
+    </div>
+  </div>
+</div>
+        
+  
+
+<div class="row">
+  <div class="col-md-12">
+    <div class="page-header-parent">
+        <div class="-back-button-parent">
+          <a href="/copypastas/labels" class="btn btn-custom"><span class="glyphicon glyphicon-menu-left"></span> All Copypasta Tags</a>
+        </div>
+      <div class="jumbotron">
+          <div class="-label">Copypasta Tag</div>
+        <div class="-text-content-parent">
+              <img alt="Classic logo" src="https://i.imgur.com/vpU5PSZ.jpg" />
+          <div class="-title-subtitle-parent">
+            <span class="-title">Classic</span>
+              <span class="-subtitle">copypastas</span>
+          </div>
+        </div>
+        <div style="clear: both"></div>
+      </div>
+    </div>
+  </div>
+  <div id="autochesstv-ad" class="col-md-12">
+  <a href="https://www.twitchhighlights.tv" title="The Best Twitch Clips Website." alt="The Best Twitch Clips Website.">
+    <div class="-inner-parent">
+      <div class="-text-parent">
+        The Best Twitch Clips Website.
+      </div>
+    </div>
+  </a>
+</div>
+</div>
+
+<div class="row">
+  <div class="col-md-12 quote-missing-a-copypasta-parent">
+  <div class="-inner-parent">
+    <a href="/contribute">
+      <img src="https://static-cdn.jtvnw.net/emoticons/v1/64138/1.0"> Missing a copypasta? Click here to contribute.
+    </a>
+  </div>
+</div>
+</div>
+
+<div class="row">
+  <div class="col-md-12 quote-options-row-parent quote-sort-filters-buttons-and-dropdown-parent">
+  <div class="-inner-parent">
+    <div class="btn-group btn-group-justified" role="group">
+      <div class="btn-group" role="group">
+        <a class="btn btn-custom -selected" title="Latest Classic copypastas" href="/copypastas/labels/classic?sortby=new">
+          <span class="glyphicon glyphicon-comment" aria-hidden="true"></span> Latest
+</a>      </div>
+      <div class="btn-group" role="group">
+        <a class="btn btn-default" title="Highest voted Classic copypastas" href="/copypastas/labels/classic?sortby=popular">
+          <span class="glyphicon glyphicon-fire" aria-hidden="true"></span> Popular
+</a>      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+      <ul class="quotes">
+        <li>
+    <div id="quote_parent_0" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_0">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3735" />
+<input type="hidden" name="quote_dom_id" value="0" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  28
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_0">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3735" />
+<input type="hidden" name="quote_dom_id" value="0" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  28
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="0" data-quote-id="3735"></i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_0">If you ask Rick Astley for a DVD of the movie Up, he won’t give it to you because he’s never gonna give you Up. However, by not giving you Up like you asked for it, he’s letting you down. This is known as the Astley paradox.</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_0">If you ask Rick Astley for a DVD of the movie Up, he won’t give it to you because he’s never gonna give you Up. However, by not giving you Up like you asked for it, he’s letting you down. This is known as the Astley paradox.</div>
+<button id="quote_copy_button_0_js" data-quote-id="3735" data-quote-dom-id="0" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3735" title="Link to copypasta">June 2020</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3735" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3735" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3735&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="0" data-quote-id="3735"></i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div id="quote_parent_1" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_1">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3696" />
+<input type="hidden" name="quote_dom_id" value="1" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  121
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_1">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/25/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3696" />
+<input type="hidden" name="quote_dom_id" value="1" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  121
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="1" data-quote-id="3696"></i>
+      <i class="fa fa-question-circle" aria-hidden="true" data-quote-dom-id="1" data-quote-id="3696">
+        <div class="quote-context-bubble quote-context-bubble-mobile">
+          DrDisrespect talks about getting shungite for 5g: <a href="https://www.twitchhighlights.tv/highlights/twitch-clip-YawningAbnegateKoalaWutFace" target="_blank">https://www.twitchhighlights.tv/highlights/twitch-clip-YawningAbnegateKoalaWutFace</a>
+        </div>
+      </i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_1">Anyways, um... I bought a whole bunch of shungite rocks, do you know what shungite is? Anybody know what shungite is? No, not Suge Knight, I think he's locked up in prison. I'm talkin' shungite. Anyways, it's a two billion year-old like, rock stone that protects against frequencies and unwanted frequencies that may be traveling in the air. That's my story, I bought a whole bunch of stuff. Put 'em around the la casa. Little pyramids, stuff like that.</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_1">Anyways, um... I bought a whole bunch of shungite rocks, do you know what shungite is? Anybody know what shungite is? No, not Suge Knight, I think he's locked up in prison. I'm talkin' shungite. Anyways, it's a two billion year-old like, rock stone that protects against frequencies and unwanted frequencies that may be traveling in the air. That's my story, I bought a whole bunch of stuff. Put 'em around the la casa. Little pyramids, stuff like that.</div>
+<button id="quote_copy_button_1_js" data-quote-id="3696" data-quote-dom-id="1" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3696" title="Link to copypasta">May 2020</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/streams/drdisrespectlive">
+        <div class="-stream-tag">
+          <img src="/assets/twitch_label_white_high_def-80fd1938a2004047a26e8d646f09bd8ba34c9aa3e97ca61a2127e0a3e6acacd8.png">DrDisRespectLIVE
+        </div>
+      </a>
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3696" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3696" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3696&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="1" data-quote-id="3696"></i>
+      <i class="fa fa-question-circle" aria-hidden="true" data-quote-dom-id="1" data-quote-id="3696">
+        <div class="quote-context-bubble quote-context-bubble-desktop">
+          DrDisrespect talks about getting shungite for 5g: <a href="https://www.twitchhighlights.tv/highlights/twitch-clip-YawningAbnegateKoalaWutFace" target="_blank">https://www.twitchhighlights.tv/highlights/twitch-clip-YawningAbnegateKoalaWutFace</a>
+        </div>
+      </i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div class="list_quote_ad_parent">
+        <div style="position: absolute; width: 100px; height: 100px; top: 0px; left: 20px; display: none; z-index: 100" id="golden_kappa_js">
+  <img src="/assets/golden_kappa-e3bec8da476fcae96711bdfcb43ca93a47641c4174d6147bf5ef8bbc1d5ba8b5.png" width=50 style="position: absolute; top: 50%; left: 50%; margin-top: -32.5px; margin-left: -25px"/>
+</div>
+        <div class="main_page_ad">
+  <div class="ad_block_alternative">
+    (ง •̀_•́)ง ONE DAY I'LL BE A REAL AD (ง •̀_•́)ง
+  </div>
+  <div>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- TwitchQuotes Main Page Resp -->
+    <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-0144173183236578"
+       data-ad-slot="6358548857"
+       data-ad-format="auto"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+</div>
+    </div>
+</li>
+<li>
+    <div id="quote_parent_3" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_3">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/74510/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3647" />
+<input type="hidden" name="quote_dom_id" value="3" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  163
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_3">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3647" />
+<input type="hidden" name="quote_dom_id" value="3" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  163
+</div>
+    </div>
+  </div>
+  
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_3">⠄⠄⠄⠄⠄⠄⠄⣠⣴⣶⣿⣿⡿⠶⠄⠄⠄⠄⠐⠒⠒⠲⠶⢄⠄⠄⠄⠄⠄⠄
+⠄⠄⠄⠄⠄⣠⣾⡿⠟⠋⠁⠄⢀⣀⡀⠤⣦⢰⣤⣶⢶⣤⣤⣈⣆⠄⠄⠄⠄⠄
+⠄⠄⠄⠄⢰⠟⠁⠄⢀⣤⣶⣿⡿⠿⣿⣿⣊⡘⠲⣶⣷⣶⠶⠶⠶⠦⠤⡀⠄⠄
+⠄⠔⠊⠁⠁⠄⠄⢾⡿⣟⡯⣖⠯⠽⠿⠛⠛⠭⠽⠊⣲⣬⠽⠟⠛⠛⠭⢵⣂⠄
+⡎⠄⠄⠄⠄⠄⠄⠄⢙⡷⠋⣴⡆⠄⠐⠂⢸⣿⣿⡶⢱⣶⡇⠄⠐⠂⢹⣷⣶⠆
+⡇⠄⠄⠄⠄⣀⣀⡀⠄⣿⡓⠮⣅⣀⣀⣐⣈⣭⠤⢖⣮⣭⣥⣀⣤⣤⣭⡵⠂⠄
+⣤⡀⢠⣾⣿⣿⣿⣿⣷⢻⣿⣿⣶⣶⡶⢖⣢⣴⣿⣿⣟⣛⠿⠿⠟⣛⠉⠄⠄⠄
+⣿⡗⣼⣿⣿⣿⣿⡿⢋⡘⠿⣿⣿⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠄⠄
+⣿⠱⢿⣿⣿⠿⢛⠰⣞⡛⠷⣬⣙⡛⠻⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⠿⠛⣓⡀⠄
+⢡⣾⣷⢠⣶⣿⣿⣷⣌⡛⠷⣦⣍⣛⠻⠿⢿⣶⣶⣶⣦⣤⣴⣶⡶⠾⠿⠟⠁⠄
+⣿⡟⣡⣿⣿⣿⣿⣿⣿⣿⣷⣦⣭⣙⡛⠓⠒⠶⠶⠶⠶⠶⠶⠶⠶⠿⠟⠄⠄⠄
+⠿⡐⢬⣛⡻⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡶⠟⠃⠄⠄⠄⠄⠄⠄
+⣾⣿⣷⣶⣭⣝⣒⣒⠶⠬⠭⠭⠭⠭⠭⠭⠭⣐⣒⣤⣄⡀⠄⠄⠄⠄⠄⠄⠄⠄
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄⠄⠄⠄⠄⠄</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+    <div class="-ascii-art-label -inner-section-parent">
+    <a href="/copypastas/ascii-art">ascii art</a>
+  </div>
+<div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_3">⠄⠄⠄⠄⠄⠄⠄⣠⣴⣶⣿⣿⡿⠶⠄⠄⠄⠄⠐⠒⠒⠲⠶⢄⠄⠄⠄⠄⠄⠄
+⠄⠄⠄⠄⠄⣠⣾⡿⠟⠋⠁⠄⢀⣀⡀⠤⣦⢰⣤⣶⢶⣤⣤⣈⣆⠄⠄⠄⠄⠄
+⠄⠄⠄⠄⢰⠟⠁⠄⢀⣤⣶⣿⡿⠿⣿⣿⣊⡘⠲⣶⣷⣶⠶⠶⠶⠦⠤⡀⠄⠄
+⠄⠔⠊⠁⠁⠄⠄⢾⡿⣟⡯⣖⠯⠽⠿⠛⠛⠭⠽⠊⣲⣬⠽⠟⠛⠛⠭⢵⣂⠄
+⡎⠄⠄⠄⠄⠄⠄⠄⢙⡷⠋⣴⡆⠄⠐⠂⢸⣿⣿⡶⢱⣶⡇⠄⠐⠂⢹⣷⣶⠆
+⡇⠄⠄⠄⠄⣀⣀⡀⠄⣿⡓⠮⣅⣀⣀⣐⣈⣭⠤⢖⣮⣭⣥⣀⣤⣤⣭⡵⠂⠄
+⣤⡀⢠⣾⣿⣿⣿⣿⣷⢻⣿⣿⣶⣶⡶⢖⣢⣴⣿⣿⣟⣛⠿⠿⠟⣛⠉⠄⠄⠄
+⣿⡗⣼⣿⣿⣿⣿⡿⢋⡘⠿⣿⣿⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠄⠄
+⣿⠱⢿⣿⣿⠿⢛⠰⣞⡛⠷⣬⣙⡛⠻⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⠿⠛⣓⡀⠄
+⢡⣾⣷⢠⣶⣿⣿⣷⣌⡛⠷⣦⣍⣛⠻⠿⢿⣶⣶⣶⣦⣤⣴⣶⡶⠾⠿⠟⠁⠄
+⣿⡟⣡⣿⣿⣿⣿⣿⣿⣿⣷⣦⣭⣙⡛⠓⠒⠶⠶⠶⠶⠶⠶⠶⠶⠿⠟⠄⠄⠄
+⠿⡐⢬⣛⡻⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡶⠟⠃⠄⠄⠄⠄⠄⠄
+⣾⣿⣷⣶⣭⣝⣒⣒⠶⠬⠭⠭⠭⠭⠭⠭⠭⣐⣒⣤⣄⡀⠄⠄⠄⠄⠄⠄⠄⠄
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄⠄⠄⠄⠄⠄</div>
+<button id="quote_copy_button_3_js" data-quote-id="3647" data-quote-dom-id="3" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3647" title="Link to copypasta">April 2020</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3647" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3647" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3647&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div id="quote_parent_4" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_4">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/70433/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3646" />
+<input type="hidden" name="quote_dom_id" value="4" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  78
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_4">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/74510/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3646" />
+<input type="hidden" name="quote_dom_id" value="4" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  78
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="4" data-quote-id="3646"></i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_4">Honestly, that's what I call a cool story bro. Such a riveting tale, I honestly copy and pasted it to word, saved on my hard drive, backed it up on a jump drive, drove to the bank, put the jump drive in the safe deposit box, and will leave it there until my kids turn about 12 (when they can actually state their age, and ask what it is I'm showing them), when I will pick it up, put it in an old USB drive reader and relay this cool story to them and tell them, "kids, this is what a cool story should look and sound like...not like the stories your generation tells.</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_4">Honestly, that's what I call a cool story bro. Such a riveting tale, I honestly copy and pasted it to word, saved on my hard drive, backed it up on a jump drive, drove to the bank, put the jump drive in the safe deposit box, and will leave it there until my kids turn about 12 (when they can actually state their age, and ask what it is I'm showing them), when I will pick it up, put it in an old USB drive reader and relay this cool story to them and tell them, "kids, this is what a cool story should look and sound like...not like the stories your generation tells.</div>
+<button id="quote_copy_button_4_js" data-quote-id="3646" data-quote-dom-id="4" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3646" title="Link to copypasta">April 2020</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3646" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3646" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3646&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="4" data-quote-id="3646"></i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div id="quote_parent_5" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_5">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/70433/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3621" />
+<input type="hidden" name="quote_dom_id" value="5" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  121
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_5">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3621" />
+<input type="hidden" name="quote_dom_id" value="5" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  121
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="5" data-quote-id="3621"></i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_5">I've heard shoving things up your ass is quite painful so you might want to start with something small like your intelligence and build up to bigger things like your ego</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_5">I've heard shoving things up your ass is quite painful so you might want to start with something small like your intelligence and build up to bigger things like your ego</div>
+<button id="quote_copy_button_5_js" data-quote-id="3621" data-quote-dom-id="5" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3621" title="Link to copypasta">March 2020</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3621" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3621" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3621&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="5" data-quote-id="3621"></i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    
+<div id="autochesstv-ad" class="col-md-12 autochesstv-ad-2-list">
+  <a href="https://www.twitchhighlights.tv" title="The Best Twitch Clips Website." alt="The Best Twitch Clips Website.">
+    <div class="-inner-parent">
+      <div class="-text-parent">
+        The Best Twitch Clips Website.
+      </div>
+    </div>
+  </a>
+</div>
+</li>
+<li>
+    <div id="quote_parent_7" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_7">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/70433/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3613" />
+<input type="hidden" name="quote_dom_id" value="7" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  65
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_7">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/25/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3613" />
+<input type="hidden" name="quote_dom_id" value="7" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  65
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="7" data-quote-id="3613"></i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_7">babe, i'm breaking up with you. it's not you, you were poggers. it's me, i'm omegalul. im sorry if this is pepehands but it has to be done, i've just been feeling pepega and our relationship has been weirdchamp for months, it's time to end it, no kappa.</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_7">babe, i'm breaking up with you. it's not you, you were poggers. it's me, i'm omegalul. im sorry if this is pepehands but it has to be done, i've just been feeling pepega and our relationship has been weirdchamp for months, it's time to end it, no kappa.</div>
+<button id="quote_copy_button_7_js" data-quote-id="3613" data-quote-dom-id="7" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3613" title="Link to copypasta">March 2020</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3613" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3613" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3613&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="7" data-quote-id="3613"></i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div id="quote_parent_8" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_8">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/25/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3588" />
+<input type="hidden" name="quote_dom_id" value="8" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  435
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_8">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/25/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3588" />
+<input type="hidden" name="quote_dom_id" value="8" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  435
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="8" data-quote-id="3588"></i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_8">now ᴘʟᴀʏɪɴɢ: Who asked (Feat: Nobody) ───────────⚪────── ◄◄⠀▐▐⠀►► 𝟸:𝟷𝟾 / 𝟹:𝟻𝟼⠀───○ 🔊</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_8">now ᴘʟᴀʏɪɴɢ: Who asked (Feat: Nobody) ───────────⚪────── ◄◄⠀▐▐⠀►► 𝟸:𝟷𝟾 / 𝟹:𝟻𝟼⠀───○ 🔊</div>
+<button id="quote_copy_button_8_js" data-quote-id="3588" data-quote-dom-id="8" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3588" title="Link to copypasta">February 2020</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3588" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3588" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3588&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="8" data-quote-id="3588"></i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div class="list_quote_ad_parent">
+        <div class="main_page_ad">
+  <div class="ad_block_alternative">
+    (ง •̀_•́)ง ONE DAY I'LL BE A REAL AD (ง •̀_•́)ง
+  </div>
+  <div>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- TwitchQuotes Main Page Resp 2 -->
+    <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-0144173183236578"
+       data-ad-slot="7416479656"
+       data-ad-format="auto"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+</div>
+    </div>
+</li>
+<li>
+    <div id="quote_parent_10" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_10">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/74510/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3572" />
+<input type="hidden" name="quote_dom_id" value="10" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  89
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_10">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/70433/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3572" />
+<input type="hidden" name="quote_dom_id" value="10" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  89
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="10" data-quote-id="3572"></i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_10">My mother said to me- 'Don't ever smoke. Please don't put your family through what your Grandfather put us through." I agreed. At 28, I have never touched a cigarette. I must say, I feel a very slight sense of regret for never having done it, because your stream gave me cancer anyway.</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_10">My mother said to me- 'Don't ever smoke. Please don't put your family through what your Grandfather put us through." I agreed. At 28, I have never touched a cigarette. I must say, I feel a very slight sense of regret for never having done it, because your stream gave me cancer anyway.</div>
+<button id="quote_copy_button_10_js" data-quote-id="3572" data-quote-dom-id="10" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3572" title="Link to copypasta">January 2020</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3572" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3572" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3572&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="10" data-quote-id="3572"></i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div id="quote_parent_11" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_11">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/25/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3552" />
+<input type="hidden" name="quote_dom_id" value="11" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  172
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_11">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/74510/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3552" />
+<input type="hidden" name="quote_dom_id" value="11" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  172
+</div>
+    </div>
+  </div>
+  
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_11">⡆⣐⢕⢕⢕⢕⢕⢕⢕⢕⠅⢗⢕⢕⢕⢕⢕⢕⢕⠕⠕⢕⢕⢕⢕⢕⢕⢕⢕⢕
+⢐⢕⢕⢕⢕⢕⣕⢕⢕⠕⠁⢕⢕⢕⢕⢕⢕⢕⢕⠅⡄⢕⢕⢕⢕⢕⢕⢕⢕⢕
+⢕⢕⢕⢕⢕⠅⢗⢕⠕⣠⠄⣗⢕⢕⠕⢕⢕⢕⠕⢠⣿⠐⢕⢕⢕⠑⢕⢕⠵⢕
+⢕⢕⢕⢕⠁⢜⠕⢁⣴⣿⡇⢓⢕⢵⢐⢕⢕⠕⢁⣾⢿⣧⠑⢕⢕⠄⢑⢕⠅⢕
+⢕⢕⠵⢁⠔⢁⣤⣤⣶⣶⣶⡐⣕⢽⠐⢕⠕⣡⣾⣶⣶⣶⣤⡁⢓⢕⠄⢑⢅⢑
+⠍⣧⠄⣶⣾⣿⣿⣿⣿⣿⣿⣷⣔⢕⢄⢡⣾⣿⣿⣿⣿⣿⣿⣿⣦⡑⢕⢤⠱⢐
+⢠⢕⠅⣾⣿⠋⢿⣿⣿⣿⠉⣿⣿⣷⣦⣶⣽⣿⣿⠈⣿⣿⣿⣿⠏⢹⣷⣷⡅⢐
+⣔⢕⢥⢻⣿⡀⠈⠛⠛⠁⢠⣿⣿⣿⣿⣿⣿⣿⣿⡀⠈⠛⠛⠁⠄⣼⣿⣿⡇⢔
+⢕⢕⢽⢸⢟⢟⢖⢖⢤⣶⡟⢻⣿⡿⠻⣿⣿⡟⢀⣿⣦⢤⢤⢔⢞⢿⢿⣿⠁⢕
+⢕⢕⠅⣐⢕⢕⢕⢕⢕⣿⣿⡄⠛⢀⣦⠈⠛⢁⣼⣿⢗⢕⢕⢕⢕⢕⢕⡏⣘⢕
+⢕⢕⠅⢓⣕⣕⣕⣕⣵⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣷⣕⢕⢕⢕⢕⡵⢀⢕⢕
+⢑⢕⠃⡈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢃⢕⢕⢕
+⣆⢕⠄⢱⣄⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢁⢕⢕⠕⢁
+⣿⣦⡀⣿⣿⣷⣶⣬⣍⣛⣛⣛⡛⠿⠿⠿⠛⠛⢛⣛⣉⣭⣤⣂⢜⠕⢑⣡⣴⣿</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+    <div class="-ascii-art-label -inner-section-parent">
+    <a href="/copypastas/ascii-art">ascii art</a>
+  </div>
+<div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_11">⡆⣐⢕⢕⢕⢕⢕⢕⢕⢕⠅⢗⢕⢕⢕⢕⢕⢕⢕⠕⠕⢕⢕⢕⢕⢕⢕⢕⢕⢕
+⢐⢕⢕⢕⢕⢕⣕⢕⢕⠕⠁⢕⢕⢕⢕⢕⢕⢕⢕⠅⡄⢕⢕⢕⢕⢕⢕⢕⢕⢕
+⢕⢕⢕⢕⢕⠅⢗⢕⠕⣠⠄⣗⢕⢕⠕⢕⢕⢕⠕⢠⣿⠐⢕⢕⢕⠑⢕⢕⠵⢕
+⢕⢕⢕⢕⠁⢜⠕⢁⣴⣿⡇⢓⢕⢵⢐⢕⢕⠕⢁⣾⢿⣧⠑⢕⢕⠄⢑⢕⠅⢕
+⢕⢕⠵⢁⠔⢁⣤⣤⣶⣶⣶⡐⣕⢽⠐⢕⠕⣡⣾⣶⣶⣶⣤⡁⢓⢕⠄⢑⢅⢑
+⠍⣧⠄⣶⣾⣿⣿⣿⣿⣿⣿⣷⣔⢕⢄⢡⣾⣿⣿⣿⣿⣿⣿⣿⣦⡑⢕⢤⠱⢐
+⢠⢕⠅⣾⣿⠋⢿⣿⣿⣿⠉⣿⣿⣷⣦⣶⣽⣿⣿⠈⣿⣿⣿⣿⠏⢹⣷⣷⡅⢐
+⣔⢕⢥⢻⣿⡀⠈⠛⠛⠁⢠⣿⣿⣿⣿⣿⣿⣿⣿⡀⠈⠛⠛⠁⠄⣼⣿⣿⡇⢔
+⢕⢕⢽⢸⢟⢟⢖⢖⢤⣶⡟⢻⣿⡿⠻⣿⣿⡟⢀⣿⣦⢤⢤⢔⢞⢿⢿⣿⠁⢕
+⢕⢕⠅⣐⢕⢕⢕⢕⢕⣿⣿⡄⠛⢀⣦⠈⠛⢁⣼⣿⢗⢕⢕⢕⢕⢕⢕⡏⣘⢕
+⢕⢕⠅⢓⣕⣕⣕⣕⣵⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣷⣕⢕⢕⢕⢕⡵⢀⢕⢕
+⢑⢕⠃⡈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢃⢕⢕⢕
+⣆⢕⠄⢱⣄⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢁⢕⢕⠕⢁
+⣿⣦⡀⣿⣿⣷⣶⣬⣍⣛⣛⣛⡛⠿⠿⠿⠛⠛⢛⣛⣉⣭⣤⣂⢜⠕⢑⣡⣴⣿</div>
+<button id="quote_copy_button_11_js" data-quote-id="3552" data-quote-dom-id="11" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3552" title="Link to copypasta">December 2019</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/weebs">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Weebs
+        </div>
+      </a>
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3552" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3552" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3552&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div id="quote_parent_12" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_12">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/70433/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3466" />
+<input type="hidden" name="quote_dom_id" value="12" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  178
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_12">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/25/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3466" />
+<input type="hidden" name="quote_dom_id" value="12" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  178
+</div>
+    </div>
+  </div>
+  
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_12">⢰⣶⠶⢶⣶⣶⡶⢶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⡶⠶⢶⣶⣶⣶⣶
+⠘⠄⠄⠄⠄⠄⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⠿⠄⠄⠄⠈⠉⠄⠄⣹⣶⣿⣿⣿⣿⢿
+⠄⠤⣾⣿⣿⣿⣿⣷⣤⡈⠙⠛⣿⣿⣿⣧⣀⠠⣤⣤⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣶
+⢠⠄⠄⣀⣀⣀⣭⣿⣿⣿⣶⣿⣿⣿⣿⣿⣿⣤⣿⣿⠉⠉⠉⢉⣉⡉⠉⠉⠙⠛⠛
+⢸⣿⡀⠄⠈⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⢿⣿⣿⣷⣾⣿
+⢸⣿⣿⣿⣿⣿⣿⣿⣿⠛⢩⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⢸⣿⣿⣿⣿⣿⡿⣿⣿⣴⣿⣿⣿⣿⣄⣠⣴⣿⣷⣭⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠸⠿⣿⣿⣿⠋⣴⡟⠋⠈⠻⠿⠿⠛⠛⠛⠛⠛⠃⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⢸⣿⣿⣿⡁⠈⠉⠄⠄⠄⠄⠄⣤⡄⠄⠄⠄⠄⠄⠈⠄⠈⠻⠿⠛⢿⣿⣿⣿⣿⣿
+⢸⣿⣿⣿⠄⠄⠄⠄⠄⠄⠄⠄⣠⣄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⣀⣿⣿⣿⣿
+⢸⣿⣿⣿⡀⠄⠄⠄⠄⠄⠄⠄⠉⠉⠁⠄⠄⠄⠄⠐⠒⠒⠄⠄⠄⠄⠉⢸⣿⣿⣿
+⢸⣿⣿⣿⢿⣦⣄⣠⣄⠛⠟⠃⣀⣀⡀⠄⠄⣀⣀⣀⣀⣀⣀⡀⢀⣰⣦⣼⣿⣿⡿
+⢸⣿⣿⣿⣿⣿⣿⣻⣿⠄⢰⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢛⣥⣾⣟⣿⣿⣿⣿⣿
+⢸⣿⣿⣿⣿⣿⣿⣿⣿⡆⠈⠿⠿⠿⠿⠿⠿⠿⠿⠿⣧⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+    <div class="-ascii-art-label -inner-section-parent">
+    <a href="/copypastas/ascii-art">ascii art</a>
+  </div>
+<div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_12">⢰⣶⠶⢶⣶⣶⡶⢶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⡶⠶⢶⣶⣶⣶⣶
+⠘⠄⠄⠄⠄⠄⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⠿⠄⠄⠄⠈⠉⠄⠄⣹⣶⣿⣿⣿⣿⢿
+⠄⠤⣾⣿⣿⣿⣿⣷⣤⡈⠙⠛⣿⣿⣿⣧⣀⠠⣤⣤⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣶
+⢠⠄⠄⣀⣀⣀⣭⣿⣿⣿⣶⣿⣿⣿⣿⣿⣿⣤⣿⣿⠉⠉⠉⢉⣉⡉⠉⠉⠙⠛⠛
+⢸⣿⡀⠄⠈⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⢿⣿⣿⣷⣾⣿
+⢸⣿⣿⣿⣿⣿⣿⣿⣿⠛⢩⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⢸⣿⣿⣿⣿⣿⡿⣿⣿⣴⣿⣿⣿⣿⣄⣠⣴⣿⣷⣭⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠸⠿⣿⣿⣿⠋⣴⡟⠋⠈⠻⠿⠿⠛⠛⠛⠛⠛⠃⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⢸⣿⣿⣿⡁⠈⠉⠄⠄⠄⠄⠄⣤⡄⠄⠄⠄⠄⠄⠈⠄⠈⠻⠿⠛⢿⣿⣿⣿⣿⣿
+⢸⣿⣿⣿⠄⠄⠄⠄⠄⠄⠄⠄⣠⣄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⣀⣿⣿⣿⣿
+⢸⣿⣿⣿⡀⠄⠄⠄⠄⠄⠄⠄⠉⠉⠁⠄⠄⠄⠄⠐⠒⠒⠄⠄⠄⠄⠉⢸⣿⣿⣿
+⢸⣿⣿⣿⢿⣦⣄⣠⣄⠛⠟⠃⣀⣀⡀⠄⠄⣀⣀⣀⣀⣀⣀⡀⢀⣰⣦⣼⣿⣿⡿
+⢸⣿⣿⣿⣿⣿⣿⣻⣿⠄⢰⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢛⣥⣾⣟⣿⣿⣿⣿⣿
+⢸⣿⣿⣿⣿⣿⣿⣿⣿⡆⠈⠿⠿⠿⠿⠿⠿⠿⠿⠿⣧⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</div>
+<button id="quote_copy_button_12_js" data-quote-id="3466" data-quote-dom-id="12" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3466" title="Link to copypasta">September 2019</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3466" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3466" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3466&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div id="quote_parent_13" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_13">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/74510/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3462" />
+<input type="hidden" name="quote_dom_id" value="13" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  85
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_13">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3462" />
+<input type="hidden" name="quote_dom_id" value="13" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  85
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="13" data-quote-id="3462"></i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_13"><img class="emoticon" alt="5Head" data-emote="5Head" src="https://i.imgur.com/IbTnLhW.jpg"/> 🍷 Ah yes, I can feel my head throbbing with knowledge and wisdom as I sip upon this Sauvignon blanc. Come chatroom, who will join me in this endeavor of knowledge <img class="emoticon" alt="5Head" data-emote="5Head" src="https://i.imgur.com/IbTnLhW.jpg"/> 🍷</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_13">5Head 🍷 Ah yes, I can feel my head throbbing with knowledge and wisdom as I sip upon this Sauvignon blanc. Come chatroom, who will join me in this endeavor of knowledge 5Head 🍷</div>
+<button id="quote_copy_button_13_js" data-quote-id="3462" data-quote-dom-id="13" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3462" title="Link to copypasta">September 2019</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3462" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3462" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3462&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="13" data-quote-id="3462"></i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div id="quote_parent_14" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_14">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3441" />
+<input type="hidden" name="quote_dom_id" value="14" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  145
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_14">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3441" />
+<input type="hidden" name="quote_dom_id" value="14" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  145
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="14" data-quote-id="3441"></i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_14">In high school, I was dared to play "gay chicken", which is where two straight guys pretend to be gay, and the first one to chicken out loses. The other guy and I are both really stubborn, and neither one of us wanted to lose. We've been married 14 years and we run a bed and breakfast in Vermont with out adopted daughter. If that dude doesn't chicken out soon, I'm going to start to suspect that he's actually gay</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_14">In high school, I was dared to play "gay chicken", which is where two straight guys pretend to be gay, and the first one to chicken out loses. The other guy and I are both really stubborn, and neither one of us wanted to lose. We've been married 14 years and we run a bed and breakfast in Vermont with out adopted daughter. If that dude doesn't chicken out soon, I'm going to start to suspect that he's actually gay</div>
+<button id="quote_copy_button_14_js" data-quote-id="3441" data-quote-dom-id="14" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3441" title="Link to copypasta">September 2019</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/kappapride">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>KappaPride
+        </div>
+      </a>
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3441" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3441" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3441&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="14" data-quote-id="3441"></i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div id="quote_parent_15" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_15">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/74510/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3417" />
+<input type="hidden" name="quote_dom_id" value="15" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  85
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_15">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/70433/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3417" />
+<input type="hidden" name="quote_dom_id" value="15" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  85
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="15" data-quote-id="3417"></i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_15">this streamer is look very nerd <img class="emoticon" alt=":\" data-emote=":\" src="https://static-cdn.jtvnw.net/emoticons/v1/10/1.0"/></span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_15">this streamer is look very nerd :/</div>
+<button id="quote_copy_button_15_js" data-quote-id="3417" data-quote-dom-id="15" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3417" title="Link to copypasta">August 2019</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3417" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3417" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3417&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="15" data-quote-id="3417"></i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div id="quote_parent_16" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_16">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3392" />
+<input type="hidden" name="quote_dom_id" value="16" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  56
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_16">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/70433/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3392" />
+<input type="hidden" name="quote_dom_id" value="16" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  56
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="16" data-quote-id="3392"></i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_16">What if I... put my Minecraft bed... 😳 next to yours... 😳 aha ha, just kidding.. 😂 unless.. ? 😳</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_16">What if I... put my Minecraft bed... 😳 next to yours... 😳 aha ha, just kidding.. 😂 unless.. ? 😳</div>
+<button id="quote_copy_button_16_js" data-quote-id="3392" data-quote-dom-id="16" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3392" title="Link to copypasta">August 2019</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3392" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3392" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3392&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="16" data-quote-id="3392"></i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div class="list_quote_ad_parent">
+        <div class="main_page_ad">
+  <div class="ad_block_alternative">
+    (ง •̀_•́)ง ONE DAY I'LL BE A REAL AD (ง •̀_•́)ง
+  </div>
+  <div>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- TwitchQuotes Main Page Resp 3 -->
+    <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-0144173183236578"
+       data-ad-slot="5660544851"
+       data-ad-format="auto"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+</div>
+    </div>
+</li>
+<li>
+    <div id="quote_parent_18" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_18">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/25/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3376" />
+<input type="hidden" name="quote_dom_id" value="18" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  88
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_18">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3376" />
+<input type="hidden" name="quote_dom_id" value="18" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  88
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="18" data-quote-id="3376"></i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_18">TSM, aka "Tribe of Silver Monkeys," is a team in Riot Games' Minor League that is often ridiculed for being washed-up and having an owner that looks like Wukong. It is specifically known for its obnoxious fanbase and mind-numbing throws.</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_18">TSM, aka "Tribe of Silver Monkeys," is a team in Riot Games' Minor League that is often ridiculed for being washed-up and having an owner that looks like Wukong. It is specifically known for its obnoxious fanbase and mind-numbing throws.</div>
+<button id="quote_copy_button_18_js" data-quote-id="3376" data-quote-dom-id="18" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3376" title="Link to copypasta">July 2019</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/streams/riot-games">
+        <div class="-stream-tag">
+          <img src="/assets/twitch_label_white_high_def-80fd1938a2004047a26e8d646f09bd8ba34c9aa3e97ca61a2127e0a3e6acacd8.png">Riot Games
+        </div>
+      </a>
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+      <a href="/copypastas/labels/league-of-legends">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>League of Legends
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3376" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3376" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3376&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="18" data-quote-id="3376"></i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div id="quote_parent_19" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_19">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/25/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3361" />
+<input type="hidden" name="quote_dom_id" value="19" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  103
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_19">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3361" />
+<input type="hidden" name="quote_dom_id" value="19" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  103
+</div>
+    </div>
+  </div>
+  
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_19">⣿⣿⣿⣿⣿⣿⡟⣵⠟⠁⠄⠄⠄⠄⢀⡀⠄⠄⠙⢾⢽⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡿⢸⡏⠄⠄⠄⠄⠄⣶⣿⣿⣇⡀⠄⠄⠩⠹⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡇⠋⠄⠄⠄⠄⠠⠭⣿⣿⣿⣯⠭⣄⠄⠄⠄⢿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡅⠄⠄⠄⠄⠄⣐⣀⡘⠹⣿⣐⣤⣼⡄⠈⠄⣼⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣧⡀⠄⠄⠄⠰⣿⣿⠃⢨⣏⣻⣿⣿⡇⠄⠄⢹⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣷⣶⣦⠄⡄⣿⠛⠄⠠⢥⠛⢿⣿⡇⢼⣣⠸⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⡿⣣⡶⠬⡛⠛⠃⠙⠉⠄⡀⣤⣳⣶⢘⡡⠴⣾⣶⡦⠬⡻⣿⣿⣿⣿⣿
+⠄⠄⣠⡄⠄⠄⣀⣤⡶⠶⣶⣦⢤⣿⣿⢷⠃⡀⠄⠄⣀⣀⣀⣤⣤⣤⣄⣀⠄⠄
+⠄⠄⠈⠙⠻⢾⢿⣬⣤⣤⣶⣿⣿⣿⢿⣯⣷⣿⣿⣿⠟⠛⠉⠉⠁⠄⠈⠙⢷⡄
+⠄⠄⠄⠄⠈⠄⠄⠁⠈⢉⣿⣿⣿⣿⣫⣿⣿⡿⠿⠿⠿⣷⣶⣄⢂⠄⠄⠄⣼⠇
+⠄⠄⠄⠄⠄⠄⠄⣀⣴⡿⠟⢫⣿⡟⠞⣿⣿⡇⠄⠄⠄⠄⠉⠻⣷⣍⠛⠛⠉⠄
+⠄⠄⣀⣀⣠⣠⣾⣟⣉⣤⣶⡿⠋⠄⠄⠘⢿⣷⣄⣀⣀⣀⡀⠄⠘⢿⣆⠄⠄⠄
+⢀⣾⠛⢛⡋⠉⠉⠉⠋⠉⠁⠄⠄⠄⠄⠄⠄⠙⠛⠛⠛⠛⠛⠻⢷⣾⡉⠄⠄⠄
+⠘⢿⣤⡟⠁⠄⠐⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡴⠄⠁⢻⣷⠄⠄⠄
+⢐⢀⠟⠒⠘⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢳⣄⣠⡾⠃⠄⠄⠄
+⠈⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⠉⠄⠄⠄⠄⠄</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+    <div class="-ascii-art-label -inner-section-parent">
+    <a href="/copypastas/ascii-art">ascii art</a>
+  </div>
+<div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_19">⣿⣿⣿⣿⣿⣿⡟⣵⠟⠁⠄⠄⠄⠄⢀⡀⠄⠄⠙⢾⢽⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡿⢸⡏⠄⠄⠄⠄⠄⣶⣿⣿⣇⡀⠄⠄⠩⠹⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡇⠋⠄⠄⠄⠄⠠⠭⣿⣿⣿⣯⠭⣄⠄⠄⠄⢿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡅⠄⠄⠄⠄⠄⣐⣀⡘⠹⣿⣐⣤⣼⡄⠈⠄⣼⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣧⡀⠄⠄⠄⠰⣿⣿⠃⢨⣏⣻⣿⣿⡇⠄⠄⢹⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣷⣶⣦⠄⡄⣿⠛⠄⠠⢥⠛⢿⣿⡇⢼⣣⠸⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⡿⣣⡶⠬⡛⠛⠃⠙⠉⠄⡀⣤⣳⣶⢘⡡⠴⣾⣶⡦⠬⡻⣿⣿⣿⣿⣿
+⠄⠄⣠⡄⠄⠄⣀⣤⡶⠶⣶⣦⢤⣿⣿⢷⠃⡀⠄⠄⣀⣀⣀⣤⣤⣤⣄⣀⠄⠄
+⠄⠄⠈⠙⠻⢾⢿⣬⣤⣤⣶⣿⣿⣿⢿⣯⣷⣿⣿⣿⠟⠛⠉⠉⠁⠄⠈⠙⢷⡄
+⠄⠄⠄⠄⠈⠄⠄⠁⠈⢉⣿⣿⣿⣿⣫⣿⣿⡿⠿⠿⠿⣷⣶⣄⢂⠄⠄⠄⣼⠇
+⠄⠄⠄⠄⠄⠄⠄⣀⣴⡿⠟⢫⣿⡟⠞⣿⣿⡇⠄⠄⠄⠄⠉⠻⣷⣍⠛⠛⠉⠄
+⠄⠄⣀⣀⣠⣠⣾⣟⣉⣤⣶⡿⠋⠄⠄⠘⢿⣷⣄⣀⣀⣀⡀⠄⠘⢿⣆⠄⠄⠄
+⢀⣾⠛⢛⡋⠉⠉⠉⠋⠉⠁⠄⠄⠄⠄⠄⠄⠙⠛⠛⠛⠛⠛⠻⢷⣾⡉⠄⠄⠄
+⠘⢿⣤⡟⠁⠄⠐⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡴⠄⠁⢻⣷⠄⠄⠄
+⢐⢀⠟⠒⠘⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢳⣄⣠⡾⠃⠄⠄⠄
+⠈⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⠉⠄⠄⠄⠄⠄</div>
+<button id="quote_copy_button_19_js" data-quote-id="3361" data-quote-dom-id="19" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3361" title="Link to copypasta">July 2019</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3361" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3361" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3361&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div id="quote_parent_20" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_20">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/70433/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3332" />
+<input type="hidden" name="quote_dom_id" value="20" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  80
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_20">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/74510/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3332" />
+<input type="hidden" name="quote_dom_id" value="20" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  80
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="20" data-quote-id="3332"></i>
+      <i class="fa fa-question-circle" aria-hidden="true" data-quote-dom-id="20" data-quote-id="3332">
+        <div class="quote-context-bubble quote-context-bubble-mobile">
+          From this donation message: <a href="https://clips.twitch.tv/BelovedSassyMarrowPraiseIt" target="_blank">https://clips.twitch.tv/BelovedSassyMarrowPraiseIt</a>
+        </div>
+      </i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_20">I just have seen your stream and wanted to say that I thought you were super adorable. you don’t know me at all and i know it’s kinda weird. I just thought maybe it’d be fun to roleplay with you as your online gf maybe? I know you’re straight. I’m a boy that’s why I was saying roleplay.. this isn’t a troll. again, I know it’s really random and weird. I’m sorry. It would just be a fun online relationship - nothing serious and I could donate to you and your stream and support you and just be here</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_20">I just have seen your stream and wanted to say that I thought you were super adorable. you don’t know me at all and i know it’s kinda weird. I just thought maybe it’d be fun to roleplay with you as your online gf maybe? I know you’re straight. I’m a boy that’s why I was saying roleplay.. this isn’t a troll. again, I know it’s really random and weird. I’m sorry. It would just be a fun online relationship - nothing serious and I could donate to you and your stream and support you and just be here</div>
+<button id="quote_copy_button_20_js" data-quote-id="3332" data-quote-dom-id="20" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3332" title="Link to copypasta">July 2019</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3332" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3332" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3332&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="20" data-quote-id="3332"></i>
+      <i class="fa fa-question-circle" aria-hidden="true" data-quote-dom-id="20" data-quote-id="3332">
+        <div class="quote-context-bubble quote-context-bubble-desktop">
+          From this donation message: <a href="https://clips.twitch.tv/BelovedSassyMarrowPraiseIt" target="_blank">https://clips.twitch.tv/BelovedSassyMarrowPraiseIt</a>
+        </div>
+      </i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div id="quote_parent_21" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_21">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/74510/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3329" />
+<input type="hidden" name="quote_dom_id" value="21" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  45
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_21">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/25/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3329" />
+<input type="hidden" name="quote_dom_id" value="21" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  45
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="21" data-quote-id="3329"></i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_21">( ͡° ͜ʖ├┬┴┬</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_21">( ͡° ͜ʖ├┬┴┬</div>
+<button id="quote_copy_button_21_js" data-quote-id="3329" data-quote-dom-id="21" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3329" title="Link to copypasta">July 2019</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3329" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3329" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3329&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="21" data-quote-id="3329"></i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div id="quote_parent_22" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_22">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3296" />
+<input type="hidden" name="quote_dom_id" value="22" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  142
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_22">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/74510/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3296" />
+<input type="hidden" name="quote_dom_id" value="22" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  142
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="22" data-quote-id="3296"></i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_22">Infinite poop. You sit on the toilet to poop, but the poop never stops coming out of your butt. You have to start flushing the toilet every two minutes to keep up. You try to pinch your butt closed but that makes your insides hurt. The poop accelerates. You call 911. The paramedics call for doctors. The doctors call for specialists. The story trends on Twitter. You turn down talk show appearances. Your septic tank fails. People form a cult. Your toilet is finished. Volunteers arrive with buckets and shovels. You are completely used to the smell. The poop accelerates. You are moved to a stepladder with a hole in the top step. The poop accelerates. The shovelers abandon the buckets and shovel directly out the window. The poop accelerates. A candlelight vigil forms around your house. One of the workers falls over and can't free himself. The poop accelerates. A priest knocks over the stepladder and tackles you out the window. You land in the pile. The poop accelerates. The force now propels you forward and upward. Vigil goers grab at your legs. The poop ignites from their candles. The Facebook live event hits 1 million viewers. The poop accelerates. You are 30 feet in the air. The fire engulfs the vigil and your house. 60 feet. The poop accelerates. The torrent underneath you is deafening. 5 million Facebook live viewers. You try to close up shop but your butthole disintegrated long ago. 120 feet up. Your house explodes. The poop accelerates. 1000 feet. You are now tracked on radar. You try to change your angle of ascent but you should have thought of that way earlier. The poop accelerates. 4,000 feet. NORAD upgrades to DEFCON 3. Concentric circles of fire engulf your city. The poop accelerates. You have broken the sound barrier. 30,000 feet. You no longer take in enough oxygen to sustain consciousness. 60,000 feet. CNN is reporting on all the world records you've broken. 200,000 feet. You are no longer alive. The poop accelerates. Your body disintegrates but your poop contrail remains. NASA can no longer track you. You break the light-speed barrier and we can no longer bear witness. The poop accelerates. Forever.</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_22">Infinite poop. You sit on the toilet to poop, but the poop never stops coming out of your butt. You have to start flushing the toilet every two minutes to keep up. You try to pinch your butt closed but that makes your insides hurt. The poop accelerates. You call 911. The paramedics call for doctors. The doctors call for specialists. The story trends on Twitter. You turn down talk show appearances. Your septic tank fails. People form a cult. Your toilet is finished. Volunteers arrive with buckets and shovels. You are completely used to the smell. The poop accelerates. You are moved to a stepladder with a hole in the top step. The poop accelerates. The shovelers abandon the buckets and shovel directly out the window. The poop accelerates. A candlelight vigil forms around your house. One of the workers falls over and can't free himself. The poop accelerates. A priest knocks over the stepladder and tackles you out the window. You land in the pile. The poop accelerates. The force now propels you forward and upward. Vigil goers grab at your legs. The poop ignites from their candles. The Facebook live event hits 1 million viewers. The poop accelerates. You are 30 feet in the air. The fire engulfs the vigil and your house. 60 feet. The poop accelerates. The torrent underneath you is deafening. 5 million Facebook live viewers. You try to close up shop but your butthole disintegrated long ago. 120 feet up. Your house explodes. The poop accelerates. 1000 feet. You are now tracked on radar. You try to change your angle of ascent but you should have thought of that way earlier. The poop accelerates. 4,000 feet. NORAD upgrades to DEFCON 3. Concentric circles of fire engulf your city. The poop accelerates. You have broken the sound barrier. 30,000 feet. You no longer take in enough oxygen to sustain consciousness. 60,000 feet. CNN is reporting on all the world records you've broken. 200,000 feet. You are no longer alive. The poop accelerates. Your body disintegrates but your poop contrail remains. NASA can no longer track you. You break the light-speed barrier and we can no longer bear witness. The poop accelerates. Forever.</div>
+<button id="quote_copy_button_22_js" data-quote-id="3296" data-quote-dom-id="22" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3296" title="Link to copypasta">June 2019</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3296" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3296" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3296&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="22" data-quote-id="3296"></i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+<li>
+    <div class="list_quote_ad_parent">
+        <div class="main_page_ad">
+  <div class="ad_block_alternative">
+    (ง •̀_•́)ง ONE DAY I'LL BE A REAL AD (ง •̀_•́)ง
+  </div>
+  <div>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- TwitchQuotes Main Page Resp 4 -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-0144173183236578"
+         data-ad-slot="8361671910"
+         data-ad-format="auto"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+</div>
+    </div>
+</li>
+<li>
+    <div id="quote_parent_24" class="quote-list-card-parent">
+  <div class="-content-parent">
+    <div class="quote-ip-like-column">
+  <div class="quote_ip_like_desktop visible-sm visible-md visible-lg" id="quote_ip_like_24">
+    <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/25/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3289" />
+<input type="hidden" name="quote_dom_id" value="24" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  57
+</div>
+  </div>
+  <div class="quote_ip_like_mobile visible-xs" id="quote_ip_like_24">
+    <div class="quote_ip_like_mobile_child">  
+      <div class="ip_like_form_parent">
+    <form class="ip_like_form_js ip_like_form" action="/ip_likes" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  <button name="button" type="submit">
+    <img class="-emote-vote-image" src='https://static-cdn.jtvnw.net/emoticons/v1/25/1.0'/>
+</button>  <input type="hidden" name="quote_id" value="3289" />
+<input type="hidden" name="quote_dom_id" value="24" />
+</form>
+</div>
+<div class="ip_vote_count ">
+  57
+</div>
+    </div>
+  </div>
+    <div class="-icons-parent visible-xs">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="24" data-quote-id="3289"></i>
+  </div>
+
+</div>
+<div class="quote-content-column quote-content-parent">
+      <div class="quote_text_multi_line">
+    <span class="preview_twitch_name">twitchquotes</span><span style="margin-right: 2px">:</span><wbr>
+    <span id="quote_display_content_24">if doublelift has million number of fans i am one of them. if doublelift has ten fans i am one of them. if doublelift has no fans. that means i am no more on the earth. if world against doublelift, i am against the world. i love doublelift till my last breath... die hard fan of doublelift. Hit like if u think doublelift best & smart in the world</span>
+  </div>
+
+</div>
+<div class="quote-metadata-column quote-metadata-parent">
+  <div class="-copy-button-parent -inner-section-parent">
+  <div style="display: none" id="quote_clipboard_copy_content_24">if doublelift has million number of fans i am one of them. if doublelift has ten fans i am one of them. if doublelift has no fans. that means i am no more on the earth. if world against doublelift, i am against the world. i love doublelift till my last breath... die hard fan of doublelift. Hit like if u think doublelift best & smart in the world</div>
+<button id="quote_copy_button_24_js" data-quote-id="3289" data-quote-dom-id="24" class="copy_to_clipboard_js btn btn-default" style="width: 100%">copy to clipboard</button>
+</div>
+<div class="-date-and-buttons-parent -inner-section-parent">
+  <span class="-date">
+    <a href="/copypastas/3289" title="Link to copypasta">June 2019</a>
+  </span>
+</div>
+  <div class="-quote-tags-parent -inner-section-parent">
+      <a href="/copypastas/labels/classic">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>Classic
+        </div>
+      </a>
+      <a href="/copypastas/labels/league-of-legends">
+        <div class="-quote-tag">
+          <span class="glyphicon glyphicon-tags"></span>League of Legends
+        </div>
+      </a>
+  </div>
+<div class="-inner-section-parent">
+  <a class="twitter-share-button social-sharing-button-base"
+  href="https://twitter.com/intent/tweet?text=%23copypasta+%23twitchchat&url=https://www.twitchquotes.com/copypastas/3289" target="_blank">
+  <i class="fa fa-twitter" aria-hidden="true"></i> Tweet
+</a>
+<div class="fb-share-button" data-href="https://www.twitchquotes.com/copypastas/3289" data-layout="button" data-size="small" data-mobile-iframe="false">
+  <a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.twitchquotes.com%2Fcopypastas%2F3289&amp;src=sdkpreparse">
+    <i class="fa fa-facebook-official" aria-hidden="true"></i> Share
+  </a>
+</div>
+</div>
+  <div class="-icons-parent -inner-section-parent visible-sm visible-md visible-lg">
+      <i class="fa fa-volume-up text-to-speech-js -disabled" title="Text to Speech" aria-hidden="true" data-quote-dom-id="24" data-quote-id="3289"></i>
+  </div>
+
+</div>
+<div style="clear: both"></div>
+  </div>
+</div>
+</li>
+
+      </ul>
+      <div class="paginate-parent"><ul class="pagination"><li class="previous disabled"><a class="previous disabled">&laquo;</a></li> <li class="active"><a class="active">1</a></li> <li><a rel="next" href="/copypastas/labels/classic?page=2">2</a></li> <li><a href="/copypastas/labels/classic?page=3">3</a></li> <li><a href="/copypastas/labels/classic?page=4">4</a></li> <li><a href="/copypastas/labels/classic?page=5">5</a></li> <li><a href="/copypastas/labels/classic?page=6">6</a></li> <li><a href="/copypastas/labels/classic?page=7">7</a></li> <li><a href="/copypastas/labels/classic?page=8">8</a></li> <li><a href="/copypastas/labels/classic?page=9">9</a></li> <li class="disabled"><a>&hellip;</a></li> <li><a href="/copypastas/labels/classic?page=12">12</a></li> <li><a href="/copypastas/labels/classic?page=13">13</a></li> <li class="next"><a class="next" rel="next" href="/copypastas/labels/classic?page=2">&raquo;</a></li></ul></div>
+    </div>
+    <div class="col-md-12 random-feed-upsell-parent">
+  <a class="btn btn-custom" href="/random/feed"><img src="https://cdn.frankerfacez.com/emoticon/231552/1"/> Already seen these? Discover fresh copypasta here.</a>
+</div>
+    
+
+</div>
+      </div>
+      <div class="stop-text-to-speech">
+        <div class="-volume-icon-parent">
+          <i class="fa fa-volume-up" aria-hidden="true"></i>
+        </div>
+        <span>Text-to-Speech Playing</span>
+      </div>
+      <div id="footer">
+  <div class="-inner-parent">
+    <p class="-brand">TwitchQuotes</p>
+    <div class="-links">
+      <a href="/">Latest Copypastas</a>
+      <a href="/copypastas?popular=true">Popular Copypastas</a>
+      <a href="/copypastas/search">Search Copypastas</a>
+      <a href="/copypastas/ascii-art">ASCII Art</a>
+      <a href="/emoticons">Twitch Chat Emoticons</a>
+      <a href="/builder">Copypasta Builder</a>
+      <a href="mailto:twitchquotes@outlook.com">Contact Us</a>
+    </div>
+    <p class="-copyright">Copyright 2019 © TwitchQuotes. All rights reserved.</p>
+  </div>
+</div>
+    <script src="/assets/application-8d8ca2e76bcfaf81077e8e7c2c0da2f7bc5462c189dca148665c0ba525f41722.js"></script>
+    
+  </body>
+</html>
